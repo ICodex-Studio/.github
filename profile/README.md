@@ -32,7 +32,7 @@ Para obtener más información sobre cómo contribuir, consulta nuestra [guía d
 
 ## Licencia
 
-Este proyecto está bajo la licencia GPL. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
+Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
 
 ---
 
